@@ -25,11 +25,9 @@ LogisticRegression:
            1       0.76      0.37      0.50       185
 
     accuracy                           0.88      1126
-   macro avg       0.83      0.67      0.71      1126
-weighted avg       0.87      0.88      0.86      1126
 
-Model aniqligi: 
- 0.8774422735346359
+
+Model aniqligi: 0.8774422735346359
 
 
 Support Vector Machine:
@@ -39,8 +37,6 @@ Support Vector Machine:
            1       0.74      0.27      0.40       185
 
     accuracy                           0.86      1126
-   macro avg       0.80      0.63      0.66      1126
-weighted avg       0.85      0.86      0.84      1126
 
 
 Decision Tree:
@@ -50,8 +46,6 @@ Decision Tree:
            1       0.86      0.85      0.85       185
 
     accuracy                           0.95      1126
-   macro avg       0.91      0.91      0.91      1126
-weighted avg       0.95      0.95      0.95      1126
 
 Model aniqligi: 0.9520426287744227
 
@@ -63,10 +57,8 @@ Random Forest:
            1       0.86      0.85      0.85       185
 
     accuracy                           0.95      1126
-   macro avg       0.91      0.91      0.91      1126
-weighted avg       0.95      0.95      0.95      1126
 
-Accuracy score: 0.9520426287744227
+Model aniqligi: 0.9520426287744227
 
 
 XGBoost:
@@ -76,10 +68,8 @@ XGBoost:
            1       0.93      0.72      0.81       185
 
     accuracy                           0.94      1126
-   macro avg       0.94      0.85      0.89      1126
-weighted avg       0.94      0.94      0.94      1126
 
-Accracy score: 0.9449378330373002
+Model aniqligi: 0.9449378330373002
 
 
 
@@ -91,16 +81,16 @@ Accracy score: 0.9449378330373002
            1       0.88      0.88      0.88       185
 
     accuracy                           0.96      1126
-   macro avg       0.93      0.93      0.93      1126
-weighted avg       0.96      0.96      0.96      1126
 
 Model aniqligi: 0.9591474245115453
 
 ![image](https://github.com/user-attachments/assets/e12d6158-689a-499e-a028-42b1348b7c97)
-ROC Curve:
+
+### ROC Curve:
 ![image](https://github.com/user-attachments/assets/528d44df-79b8-4f65-9dba-2d99137596ac)
 
-Tree:
+### Tree:
+
 ![image](https://github.com/user-attachments/assets/c0266284-9d98-4242-9d1a-23004e9961a8)
 
 
